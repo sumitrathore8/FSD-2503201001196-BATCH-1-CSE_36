@@ -5,5 +5,5 @@ function greet(name,callback){
 }
 function bye(){
     console.log('Goodbye!');
-}
+}      
 greet('john',bye);
